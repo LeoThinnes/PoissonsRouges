@@ -1,6 +1,6 @@
 # Poisson Rouge
 
-lien du miro : ![https://miro.com/app/board/uXjVORPMtRw=/?invite_link_id=389042144776](https://miro.com/app/board/uXjVORPMtRw=/?invite_link_id=389042144776)
+lien du miro : [https://miro.com/app/board/uXjVORPMtRw=/?invite_link_id=389042144776](https://miro.com/app/board/uXjVORPMtRw=/?invite_link_id=389042144776)
 
 ## Outils
 
