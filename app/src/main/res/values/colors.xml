@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_marine">#00519B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red_alert">#C10000</color>
+    <color name="orange_alert">#FFA450</color>
+    <color name="bubble">#2D99FC</color>
+    <color name="bubble_red">#E50000</color>
+    <color name="bubble_orange">#FFC045</color>
+    <color name="background">#DCEEFF</color>
+    <color name="black">#000000</color>
+    <color name="light_orange">#FFE8BA</color>
+</resources>

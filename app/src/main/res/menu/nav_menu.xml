@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Menu des différents items -->
+    <!-- L'id des items est le meme que ceux
+    des destinations du nav_graph pour permettre
+    la navigation vers les différents fragments -->
+
+
+    <item
+        android:id="@+id/alert_fragment"
+        android:icon="@drawable/ic_alert"
+        android:title="@string/alert" />
+
+    <item
+        android:id="@+id/historic_fragment"
+        android:icon="@drawable/ic_historic_aquarium"
+        android:title="@string/historic_aquarium" />
+
+    <item
+        android:id="@+id/cancel_fragment"
+        android:icon="@drawable/ic_detail_aquarium"
+        android:title="@string/cancel_aquariums"/>
+
+</menu>

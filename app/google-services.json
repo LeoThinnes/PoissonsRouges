@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477635906374",
+    "firebase_url": "https://poissonrouge-b049a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "poissonrouge-b049a",
+    "storage_bucket": "poissonrouge-b049a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477635906374:android:f4e21fce71ca6c7a3fb347",
+        "android_client_info": {
+          "package_name": "iutinfo.lp.devmob.poissonrouge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477635906374-7b4gs6s0tcmvdstg5csajmj1bjjlgmrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC17jUSmFIy-SAkBuqnAOU45OWmcHMUFUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477635906374-7b4gs6s0tcmvdstg5csajmj1bjjlgmrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

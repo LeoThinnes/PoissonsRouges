@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">PoissonRouge</string>
+    <string name="channel_name">channel name</string>
+    <string name="channel_desciption">channel desc</string>
+    <string name="title_activity_detail_aquarium">DetailAquariumActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="historic_aquarium">Historique</string>
+    <string name="alert">Alerte</string>
+    <string name="no_alert">Pas d\'alerte</string>
+    <string name="detail_aquarium">Aquarium</string>
+    <string name="my_aquariums">Etat des aquariums :</string>
+    <string name="name">Nom</string>
+    <string name="room">Salle</string>
+    <string name="species_type">Type de poissons</string>
+    <string name="wanted_temperature">Températures idéales</string>
+    <string name="take_alert">Je m\'en occupe</string>
+    <string name="here">J\'y suis !</string>
+    <string name="alert_running">Alerte en cours</string>
+    <string name="cancel">Annuler</string>
+    <string name="title_activity_detect_nfc">NfcReaderActivity</string>
+    <string name="text_nfc">Veuillez présentez votre badge NFC à votre téléphone</string>
+    <string name="ok_nfc">Vous êtes maintenant en charge de cette alerte</string>
+    <string name="take_photo">Prendre une photo</string>
+    <string name="youre_here">Vous y êtes !</string>
+    <string name="youre_not_here">Vous n\'êtes pas encore au bon aquarium !</string>
+    <string name="cancel_aquariums">Accueil</string>
+    <string name="historic_alert">Historique des alertes :</string>
+    <string name="temperature">temperature</string>
+    <string name="titre">titre</string>
+    <string name="date">date</string>
+    <string name="description_problem">Descriptif du problème</string>
+    <string name="placeholder_problem">Quel était le problème ? Comment l\'avez-vous réparé ?</string>
+    <string name="add_photo">Prendre une photo</string>
+    <string name="finish">Clôturer l\'alerte</string>
+    <string name="info_miss">N\'oubliez de décrire l\'alerte et de prendre une photo</string>
+    <string name="alert_close">Alerte clôturée</string>
+    <string name="poissons_rouges">Poissons \nRouges</string>
+    <string name="sanner_badge">Scanner Badge :</string>
+    <string name="resolution_du_probleme">Résolution du problème</string>
+    <string name="water_ok">L\'eau est à bonne température</string>
+    <string name="remember">Rappel</string>
+
+
+
+</resources>
