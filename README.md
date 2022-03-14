@@ -1,6 +1,6 @@
 # PoissonsRouges
 
-Lien du miro : ![https://miro.com/app/board/uXjVORPMtRw=/?invite_link_id=389042144776](https://miro.com/app/board/uXjVORPMtRw=/?invite_link_id=389042144776)
+Lien du miro : [https://miro.com/app/board/uXjVORPMtRw=/?invite_link_id=389042144776](https://miro.com/app/board/uXjVORPMtRw=/?invite_link_id=389042144776)
 
 Réalisé par les étudiants de la LP CDTL de la Rochelle : 
  - Belot Valentin
